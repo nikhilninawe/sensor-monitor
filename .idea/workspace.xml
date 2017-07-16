@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ecf964-bf46-40ca-ae54-82174389e991" name="Default" comment="" />
+    <list default="true" id="77ecf964-bf46-40ca-ae54-82174389e991" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,8 +66,8 @@
       <file leaf-file-name="SensorUpdates.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/updates/SensorUpdates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1495,7 +1497,7 @@
       <workItem from="1499424551653" duration="2926000" />
       <workItem from="1499686992264" duration="4056000" />
       <workItem from="1499874321266" duration="8381000" />
-      <workItem from="1500019617285" duration="20410000" />
+      <workItem from="1500019617285" duration="20473000" />
     </task>
     <servers />
   </component>
@@ -1532,7 +1534,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35773000" />
+    <option name="totallyTimeSpent" value="35836000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1979,8 +1981,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/updates/SensorUpdates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
