@@ -2,7 +2,7 @@
 
 Steps to run server :-
 
-1. tar xvf sensor-monitor.tar
+1. git clone git@github.com:nikhilninawe/sensor-monitor.git
 2. cd sensor-monitor/
 3. ./gradlew clean build
 4. java -jar build/libs/sensor-monitor-0.1.0.jar 
@@ -18,7 +18,7 @@ SensorUpdates component in the server generates random temperature updates and m
 
 Steps to run client :-
 
-1. tar xvf sensor-client.tar 
+1. git clone git@github.com:nikhilninawe/sensor-client.git 
 2. cd sensor-client/
 3. ./gradlew clean build
 4. java -Dserver.port=8095 -Dsensor=S1 -jar build/libs/sensor-client-0.1.0.jar
